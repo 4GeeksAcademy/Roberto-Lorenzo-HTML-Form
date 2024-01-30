@@ -1,0 +1,13 @@
+* {
+    margin: 4px 0px;
+}
+
+.card-header {
+    margin-top: 0px;
+}
+
+input[type=radio] {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0px 2px 0px;
+}
